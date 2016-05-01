@@ -1,0 +1,20 @@
+---
+layout:     post
+title:      "Demystify Nginx"
+subtitle:   "What makes the high performance modern open source web server"
+date:       2016-02-07 12:00:00
+author:     "aaronice"
+keyword:    ["server","nginx", "concurrency", "performance"]
+header-img: ""
+---
+
+# Demystify Nginx
+
+_TO_DO_
+
+
+## Reference
+
+- [Nginx _by Andrew Alexeev_](http://aosabook.org/en/nginx.html)
+- [Nginx _Wikipedia_](https://en.wikipedia.org/wiki/Nginx)
+- [Nginx Resources _awesome list_](https://github.com/fcambus/nginx-resources)
