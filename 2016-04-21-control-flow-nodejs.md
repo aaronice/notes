@@ -12,3 +12,8 @@
 
 ## Generators
 - [yield 和 yield*](http://taobaofed.org/blog/2015/11/19/yield-and-delegating-yield/)
+
+
+## Async/Await
+
+- [Understanding Javascript Async Await](https://ponyfoo.com/articles/understanding-javascript-async-await)
