@@ -327,6 +327,7 @@ curl -XPOST http://<hostname>:<port>/<index name>/_refresh
 - [ElasticSearch Javascript API](https://www.elastic.co/guide/en/elasticsearch/client/javascript-api/current/quick-start.html)
 - [Elasticsearch Reference](https://www.elastic.co/guide/en/elasticsearch/reference/current/index.html)
 
+- [Solr vs Elasticsearch: Battle of The Query DSLs](https://dzone.com/articles/solr-vs-elasticsearch-battle-of-the-query-dsls)
 
 
 ## Additional Reference
