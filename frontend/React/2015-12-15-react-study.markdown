@@ -357,4 +357,11 @@ return <tbody>{rows}</tbody>;
 React.js provides a new way of working with HTML, CSS, and Javascript, the components can be easily re-used, while the virtual DOM concept provides performance improvements on DOM operations. It's totally fine to write React component working with legacy code, however, it can be hard to manage the data flow and states as the complexity of the project grows. Therefore, a systematic approach, such as an architecture is much needed for a React.js front-end project. In following post, I'll talk about an architecture, well, it's not the well-know MVC, in fact, it's also introduced by Facebook, the [**Flux**](https://facebook.github.io/flux/).
 
 
+
+## Reference
+
+- [Top 5 Tutorials for Getting Started with React](http://andrewhfarmer.com/getting-started-tutorials/)
+- [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
 - [React 组件的生命周期](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
+
+
