@@ -363,5 +363,5 @@ React.js provides a new way of working with HTML, CSS, and Javascript, the compo
 - [Top 5 Tutorials for Getting Started with React](http://andrewhfarmer.com/getting-started-tutorials/)
 - [React AJAX Best Practices](http://andrewhfarmer.com/react-ajax-best-practices/)
 - [React 组件的生命周期](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E7%9A%84%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F/)
-
+- [React 组件间的消息传递](http://pinggod.com/2015/React-%E7%BB%84%E4%BB%B6%E9%97%B4%E7%9A%84%E6%B6%88%E6%81%AF%E4%BC%A0%E9%80%92/)
 
