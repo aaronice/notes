@@ -98,3 +98,8 @@ Another important part of scaling the data layer is effective management of **wr
 
 > - Queues enable clients to work in an asynchronous manner, providing a strategic abstraction of a client's request and its response.
 > - Queues also provide some protection from service outages and failures.
+
+
+## Reference
+
+- [Scalable Web Architecture and Distributed Systems - Kate Matsudaira](www.aosabook.org/en/distsys.html)
