@@ -38,7 +38,7 @@ From the [Quora answers](https://www.quora.com/What-is-the-difference-between-co
 - [Wikipedia: Parallel Computing](https://en.wikipedia.org/wiki/Parallel_computing)
 - [Wikipedia: Concurrent Computing](https://en.wikipedia.org/wiki/Concurrent_computing)
 - [Linux-Mag: Concurrent and Parallel Are Not The Same _By Douglas Eadline, Ph.D._](http://www.linux-mag.com/id/7411/)
-- [The Go Blog: Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism)
+- [The Go Blog: Concurrency is not parallelism](https://blog.golang.org/concurrency-is-not-parallelism) | [Slides](https://talks.golang.org/2012/waza.slide#1)
 - [Yuan Lin: Concurrency vs Parallelism, Concurrent Programming vs Parallel Programming](https://blogs.oracle.com/yuanlin/entry/concurrency_vs_parallelism_concurrent_programming)
 - [bytearcher: Parallel vs Concurrent in Node.js](http://bytearcher.com/articles/parallel-vs-concurrent/)
 - [Quora: What is the difference between concurrent computing, parallel computing and distributed computing?](https://www.quora.com/What-is-the-difference-between-concurrent-computing-parallel-computing-and-distributed-computing)
