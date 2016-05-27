@@ -1,5 +1,5 @@
 # Web Tooling
---- 
+---
 
 Source: http://survivejs.com/webpack_react/webpack_compared/
 
@@ -9,7 +9,7 @@ Source: http://survivejs.com/webpack_react/webpack_compared/
 
 > Continuing further on this path, JSPM pushes package management directly to the browser. It relies on System.js, a dynamic module loader. Unlike Browserify and Webpack, it skips the bundling step altogether during development. You can generate a production bundle using it, however. Glen Maddern goes into good detail at his video about JSPM.
 
-Source: http://jamesknelson.com/which-build-system-should-i-use-for-my-javascript-app/ 
+Source: http://jamesknelson.com/which-build-system-should-i-use-for-my-javascript-app/
 
 > **The Short Answer**
 
@@ -31,7 +31,7 @@ Source: http://jamesknelson.com/which-build-system-should-i-use-for-my-javascrip
 
 ### Task Runners
 
-- [Grunt](http://gruntjs.com/) 
+- [Grunt](http://gruntjs.com/)
 - [Gulp](http://gulpjs.com/)
 
 ### Compiler
@@ -53,3 +53,7 @@ Source: http://jamesknelson.com/which-build-system-should-i-use-for-my-javascrip
 - [NPMCompare: Comparing browserify vs. grunt vs. gulp vs. webpack](https://npmcompare.com/compare/browserify,grunt,gulp,webpack)
 - [gulp vs. Grunt vs. Webpack](http://stackshare.io/stackups/gulp-vs-grunt-vs-webpack)
 - [StackOverflow: npm vs bower vs browserify vs gulp vs grunt vs webpack](http://stackoverflow.com/questions/35062852/npm-vs-bower-vs-browserify-vs-gulp-vs-grunt-vs-webpack)
+
+### Gulp
+
+- [Automate Your Tasks Easily with Gulp.js](https://scotch.io/tutorials/automate-your-tasks-easily-with-gulp-js)
