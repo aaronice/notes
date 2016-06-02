@@ -27,3 +27,4 @@ Use it when: You want to remove unwanted elements based on a condition.
 - [Array.prototype.map ECMAScript 6.0](http://www.ecma-international.org/ecma-262/6.0/#sec-array.prototype.map)
 - [Array.prototype.reduce ECMAScript 6.0](http://www.ecma-international.org/ecma-262/6.0/#sec-array.prototype.reduce)
 - [Array.prototype.filter ECMAScript 6.0](http://www.ecma-international.org/ecma-262/6.0/#sec-array.prototype.filter)
+- [Ryan P.C. McQuen: .map() vs .forEach() vs for()](https://ryanpcmcquen.org/javascript/2015/10/25/map-vs-foreach-vs-for.html)
