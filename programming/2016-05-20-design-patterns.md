@@ -11,6 +11,7 @@
 
 - [runoob.com: 设计模式](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
 - [设计模式总结](http://www.cnblogs.com/chenssy/p/3357683.html)
+- [JavaScript Design Patterns](https://carldanley.com/javascript-design-patterns/)
 
 ### Articles
 
