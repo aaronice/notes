@@ -12,8 +12,9 @@
 
 ## Online Judge
 
-- [LeetCode]()
-- [LintCode]()
+- [LeetCode](https://leetcode.com/problemset/algorithms/)
+- [LintCode](http://www.lintcode.com/en/problem/)
+- [TopCoder](https://www.topcoder.com)
 
 ## Prep Website
 
