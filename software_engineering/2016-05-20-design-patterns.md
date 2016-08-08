@@ -1,6 +1,15 @@
 # Design Patterns
 
 
+## 3 Types of Design Patterns
+
+### Creational
+
+### Structural
+
+### Behavioral
+
+
 ## Reference
 
 ### Books
@@ -18,3 +27,7 @@
 - [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
 - [酷 壳 – CoolShell.cn: 从面向对象的设计模式看软件设计](http://coolshell.cn/articles/8961.html)
 - [Reclaiming Design Patterns (20 Years Later)](http://blogs.tedneward.com/post/reclaiming-design-patterns/) | [中文：20年前GoF提出的设计模式，对这个时代是否还有指导意义？](http://www.infoq.com/cn/articles/design-patterns-proposed-by-gof-20-years-ago)
+
+### Introduction
+
+- [Wikipedia: Software Design Pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
