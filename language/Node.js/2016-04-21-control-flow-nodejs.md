@@ -15,5 +15,10 @@
 
 
 ## Async/Await
-
+- [Async Functions](https://tc39.github.io/ecmascript-asyncawait/)
+- [Async/Await: The Hero JavaScript Deserved](https://www.twilio.com/blog/2015/10/asyncawait-the-hero-javascript-deserved.html)
+- [Slides: ES7 Async/Await](http://rossboucher.com/await/#/)
 - [Understanding Javascript Async Await](https://ponyfoo.com/articles/understanding-javascript-async-await)
+- [Understand promises before you start using async/await](https://medium.com/@bluepnume/learn-about-promises-before-you-start-using-async-await-eb148164a9c8#.4bd0c61rn)
+- [Async javascript is much more fun when you memoize.](https://medium.com/@bluepnume/async-javascript-is-much-more-fun-when-you-spend-less-time-thinking-about-control-flow-8580ce9f73fc#.umypfo7t5)
+- [Async and Await](https://zeit.co/blog/async-and-await)
