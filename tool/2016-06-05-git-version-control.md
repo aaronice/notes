@@ -13,7 +13,9 @@
 - [Interactive Visual Git Cheat Sheet](http://ndpsoftware.com/git-cheatsheet.html)
 - [GitHub Git Cheat Sheet](https://services.github.com/kit/downloads/github-git-cheat-sheet.pdf)
 
-## Git Workflow
+## Git Workflow and Branching Model
+
+### GitFlow
 
 ![Git Branching Model](/_image/git-model.png)
 Image Source: http://nvie.com/posts/a-successful-git-branching-model/
@@ -22,6 +24,16 @@ Image Source: http://nvie.com/posts/a-successful-git-branching-model/
 - [A successful Git branching model _By Vincent Driessen_](http://nvie.com/posts/a-successful-git-branching-model/)
 - [Understanding the Git Workflow](https://sandofsky.com/blog/git-workflow.html)
 - [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+
+### Rethink GitFlow or "Anti-GitFlow"
+
+- [GitFlow considered harmful](http://endoflineblog.com/gitflow-considered-harmful)
+- [Follow-up to 'GitFlow considered harmful'](endoflineblog.com/follow-up-to-gitflow-considered-harmful)
+
+>**GitFlow's Mistakes**
+>* It makes the project's history completely unreadable
+>* The master/develop split is redundant
+>* It's needlessly complex
 
 ## Subtree vs Submodule
 
