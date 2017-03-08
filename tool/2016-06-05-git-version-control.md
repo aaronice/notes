@@ -36,7 +36,7 @@ Image Source: http://nvie.com/posts/a-successful-git-branching-model/
 >* The master/develop split is redundant
 >* It's needlessly complex
 
-### `rebase`, `merge` and `cherry-pick`
+### About `rebase`, `merge` and `cherry-pick`
 
 - [StackOverflow: Git Cherry-pick vs Merge Workflow](http://stackoverflow.com/a/1241829/5262615)
 
