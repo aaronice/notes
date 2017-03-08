@@ -5,6 +5,7 @@
 - [Pro Git](https://git-scm.com/book/en/v2)
 - [Become a git guru.](https://www.atlassian.com/git/tutorials/)
 - [git-scm reference](https://git-scm.com/docs)
+- [Think Like (a) Git - *A GUIDE FOR THE PERPLEXED*](http://think-like-a-git.net/)
 
 
 ## Tips & Cheatsheet
@@ -34,6 +35,16 @@ Image Source: http://nvie.com/posts/a-successful-git-branching-model/
 >* It makes the project's history completely unreadable
 >* The master/develop split is redundant
 >* It's needlessly complex
+
+### `rebase`, `merge` and `cherry-pick`
+
+- [StackOverflow: Git Cherry-pick vs Merge Workflow](http://stackoverflow.com/a/1241829/5262615)
+
+
+#### More about `merge`
+
+- [Live to merge, merge to live...](http://blog.plasticscm.com/2010/11/live-to-merge-merge-to-live.html)
+
 
 ## Subtree vs Submodule
 
