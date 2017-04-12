@@ -39,7 +39,7 @@ Image Source: http://nvie.com/posts/a-successful-git-branching-model/
 ### About `rebase`, `merge` and `cherry-pick`
 
 - [StackOverflow: Git Cherry-pick vs Merge Workflow](http://stackoverflow.com/a/1241829/5262615)
-
+- [Merging vs. Rebasing](https://dzone.com/articles/merging-vs-rebasing)
 
 #### More about `merge`
 
