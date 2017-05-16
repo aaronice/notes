@@ -1,3 +1,7 @@
+JavaScript asynchronous control flow is a very interesting topic, and several approaches has been developed such as callback, promise, generator, async/await.
+
+## General
+- [StuQ分享专题《深入浅出js（Node.js）异步流程控制》](https://github.com/i5ting/asynchronous-flow-control)
 
 
 ## Promises
