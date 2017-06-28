@@ -8,6 +8,11 @@
 
 - [Page lifecycle: DOMContentLoaded, load, beforeunload, unload](https://javascript.info/onload-ondomcontentloaded)
 
+## Web Performance
+
+- [Google: Web Performance Best Practices - PageSpeed Insights Rules](https://developers.google.com/speed/docs/insights/rules)
+- [Yahoo: Best Practices for Speeding Up Your Web Site](https://developer.yahoo.com/performance/rules.html)
+
 
 ## Resources on Web, JavaScript
 
