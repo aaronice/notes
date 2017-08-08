@@ -14,6 +14,7 @@
 
 ### Books
 
+- [Design Patterns Explained Simply](https://sourcemaking.com/design_patterns)
 - [Design Patterns: Elements of Reusable Object-Oriented Software](http://www.amazon.com/Design-Patterns-Elements-Reusable-Object-Oriented/dp/0201633612)
 
 ### Tutorials
@@ -21,7 +22,7 @@
 - [runoob.com: 设计模式](http://www.runoob.com/design-pattern/design-pattern-tutorial.html)
 - [设计模式总结](http://www.cnblogs.com/chenssy/p/3357683.html)
 - [JavaScript Design Patterns](https://carldanley.com/javascript-design-patterns/)
-
+- [Design patterns implemented in Java](http://java-design-patterns.com/)
 ### Articles
 
 - [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
