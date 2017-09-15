@@ -1,5 +1,5 @@
 # Summary
 
 * [Introduction](README.md)
-* [Messaging](messaging.md)
+* [Messaging](messaging/messaging.md)
 
