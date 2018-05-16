@@ -6,3 +6,16 @@
 
 
 Define a container with `Dockerfile`
+
+
+
+Docker Commands
+
+```
+// List downloaded Docker images
+$ docker images
+
+// List all containers
+$ docker ps -a 
+
+```
