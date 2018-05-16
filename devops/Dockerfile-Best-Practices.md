@@ -33,4 +33,6 @@ test2                     latest              fd484f19954f        23 seconds ago
 // Remove a docker images by id
 $ docker rmi fd484f19954f
 
+
+
 ```
