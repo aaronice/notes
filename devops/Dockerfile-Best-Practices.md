@@ -7,6 +7,11 @@
 
 Define a container with `Dockerfile`
 
+Then build an image from a Dockerfile
+
+```
+$ docker build
+```
 
 
 Docker Commands
