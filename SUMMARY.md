@@ -10,8 +10,7 @@
 * [Parallel vs Concurrent](programming/2016-05-13-parallel-vs-concurrent.md)
 * [Load Balancing - Nginx](web/2016-02-07-nginx.markdown)
 * [REST API](web/2016-03-15-rest-api.md)
-
-* [WebSockets](web/2016-05-20-more-about-websocket.md) | [WebSockets & Long Polling](web/2016-04-16-websockets-long-polling.md)
+* [WebSockets](web/2016-05-20-more-about-websocket.md)
 * [Streaming](web/2016-06-15-streams.md)
 * [Serialization](web/2017-03-29-serialization-json-xml-protobuff-thrift-avro.md)
 
@@ -24,14 +23,15 @@
 
 ## Database
 
-* [NoSQL]()
-* [SQL]()
+* NoSQL
+* SQL
 
 ## DevOps & Tools
 
 * [Version Control - Git](tool/2016-06-05-git-version-control.md)
 * [Shell - zsh, bash](tool/2016-03-04-zsh-bash.md)
 * [Docker](devops/Dockerfile-Best-Practices.md)
+* [Linux Package Management - YUM](tool/linux-package-management-yum.md)
 * [Linux Command Line Tools](tool/2016-05-20-linux-tool.md)
 
 ## Security
@@ -40,6 +40,5 @@
 
 ## AI, ML, DL, CV, NLP
 
-\# Artificial Intelligence, Machine Learning, Deep Learning
-
 * [Deep Learning](machine_learning/2017-08-02-deep-learning.md)
+

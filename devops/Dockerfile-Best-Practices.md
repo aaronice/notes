@@ -43,7 +43,7 @@ test2                     latest              fd484f19954f        23 seconds ago
 // Remove a docker images by id
 $ docker rmi fd484f19954f
 
-// 
+// Create a new image from a container’s changes
 $ docker commit a5f2a390c452 ssm-env
 
 // Launch several sessions connected to the same container 
