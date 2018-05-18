@@ -1,11 +1,16 @@
-# Best practices and Reference for Dockerfiles
+# Notes and Tips on Docker Container
+
+
+
+
+## Best practices for Dockerfiles
 
 
 - [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
 - [Dockerfile reference](https://docs.docker.com/engine/reference/builder/)
 
 
-Define a container with `Dockerfile`
+`Dockerfile` defines a container 
 
 Then build an image from a Dockerfile
 
@@ -14,7 +19,7 @@ $ docker build
 ```
 
 
-Docker Commands
+## Commonly Used Docker Commands
 
 ```
 
@@ -38,6 +43,11 @@ test2                     latest              fd484f19954f        23 seconds ago
 // Remove a docker images by id
 $ docker rmi fd484f19954f
 
+// 
+$ docker commit a5f2a390c452 ssm-env
 
+// Launch several sessions connected to the same container 
+// from multiple host terminals.
+$ docker exec -it <container> bash
 
 ```
