@@ -1,5 +1,3 @@
-# Summary
-
 * [Introduction](README.md)
 
 ## Architecture & System Design
@@ -23,8 +21,8 @@
 
 ## Database
 
-* NoSQL
-* SQL
+* [NoSQL](database/nosql.md)
+* [SQL](database/sql.md)
 
 ## DevOps & Tools
 
@@ -41,4 +39,6 @@
 ## AI, ML, DL, CV, NLP
 
 * [Deep Learning](machine_learning/2017-08-02-deep-learning.md)
+
+
 
