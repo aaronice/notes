@@ -13,6 +13,7 @@
 * [WebSockets](web/2016-05-20-more-about-websocket.md)
 * [Streaming](web/2016-06-15-streams.md)
 * [Serialization](web/2017-03-29-serialization-json-xml-protobuff-thrift-avro.md)
+* [Parallel & Concurrent](programming/programming/2016-05-13-parallel-vs-concurrent.md)
 
 ## Programming Language
 
