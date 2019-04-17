@@ -1,4 +1,4 @@
-# SUMMARY
+# Summary
 
 * [Introduction](README.md)
 
@@ -21,7 +21,7 @@
 * Java
 * [Erlang](/language/Erlang/2017-01-29-erlang.md)
 * Python
-* Golang
+* [Golang](language/Node.js/golang.md)
 
 ## Software Engineering
 
@@ -50,6 +50,4 @@
 ## AI, ML, DL, CV, NLP
 
 * [Deep Learning](machine_learning/2017-08-02-deep-learning.md)
-
-
 
