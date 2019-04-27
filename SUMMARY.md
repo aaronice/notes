@@ -22,6 +22,7 @@
 * [Erlang](/language/Erlang/2017-01-29-erlang.md)
 * Python
 * [Golang](language/Node.js/golang.md)
+  * [Go Runtime Scheduler](language/Node.js/golang/go-runtime-scheduler.md)
 
 ## Software Engineering
 
