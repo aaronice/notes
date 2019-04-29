@@ -9,7 +9,7 @@ Wikipedia: https://en.wikipedia.org/wiki/Dining_philosophers_problem
 
 
 https://rosettacode.org/wiki/Dining_philosophers
-
+https://sudocoding.xyz/dining-philosophers-problem-golang/
 https://www.baeldung.com/java-dining-philoshophers
 
 
