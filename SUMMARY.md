@@ -16,8 +16,10 @@
 
 ## Programming Language
 
-* JavaScript
-* [Node.js](/language/Node.js/node.js.md)
+* [JavaScript & Node.js](/language/Node.js/node.js.md)
+  * [Node.js Promises](/language/Node.js/2016-04-20-promises.md)
+  * [Node.js Async Flow Control](/language/Node.js/2016-04-21-flow-control-nodejs.md)
+  * [Node.js Profiling](/language/Node.js/2016-04-26-nodejs-profiling.md)
 * Java
 * [Erlang](/language/Erlang/2017-01-29-erlang.md)
 * Python
