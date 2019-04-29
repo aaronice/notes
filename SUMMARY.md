@@ -8,6 +8,7 @@
 * [RPC Frameworks](messaging/rpc.md)
 * [Scalable Web Application Architecture](architecture/2016-05-12-scalable-web-app-distributed-system.md)
 * [Parallel vs Concurrent](programming/2016-05-13-parallel-vs-concurrent.md)
+* [Concurrency](programming/concurrency.md)
 * [Load Balancing - Nginx](web/2016-02-07-nginx.markdown)
 * [REST API](web/2016-03-15-rest-api.md)
 * [WebSockets](web/2016-05-20-more-about-websocket.md)
