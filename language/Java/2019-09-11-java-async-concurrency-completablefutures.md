@@ -8,7 +8,6 @@
 
 ## CompletableFuture
 * [Oracle Java Doc: CompletableFuture](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html)
-
 * [Java CompletableFuture Tutorial with Examples](https://www.callicoder.com/java-8-completablefuture-tutorial/)
 * [Guide To CompletableFuture](https://www.baeldung.com/java-completablefuture)
 * [Java 8: Writing asynchronous code with CompletableFuture](https://www.deadcoderising.com/java8-writing-asynchronous-code-with-completablefuture/)
