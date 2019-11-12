@@ -3,7 +3,7 @@
 ## Comprehensive Tutorial
 
 - [Pro Git](https://git-scm.com/book/en/v2)
-- [Become a git guru.](https://www.atlassian.com/git/tutorials/)
+- [Atlassian: Become a git guru.](https://www.atlassian.com/git/tutorials/) | [Advanced Git](https://www.atlassian.com/git/tutorials/advanced-overview)
 - [git-scm reference](https://git-scm.com/docs)
 - [Think Like (a) Git - *A GUIDE FOR THE PERPLEXED*](http://think-like-a-git.net/)
 
