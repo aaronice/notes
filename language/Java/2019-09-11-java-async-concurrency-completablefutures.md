@@ -19,3 +19,5 @@
 ### Internals & Performance Tips
 * [Asynchronous API with CompletableFuture Performance Tips and Tricks](https://qconsf.com/sf2017/system/files/presentation-slides/cf.pdf) | [Video](https://www.youtube.com/watch?v=lyJBtg6Dgwc)
 * [CompletableFuture in I/O-bound applications](https://headcrashing.wordpress.com/2015/07/20/iobound-completablefuture/)
+
+* [Be Aware of ForkJoinPool#commonPool()](https://dzone.com/articles/be-aware-of-forkjoinpoolcommonpool) | Two major concepts use the commonPool inside JDK: `CompletableFuture` and  `Parallel Streams`.
